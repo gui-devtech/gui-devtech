@@ -23,3 +23,12 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gui-devtech&theme=radical&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
+
+### 📈 Activity
+
+<div>
+ <p align="center">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gui-devtech&theme=tokyo-night&hide_border=true&area=true" />
+ </p>
+</div>
+
